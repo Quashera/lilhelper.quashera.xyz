@@ -1,0 +1,31 @@
+title: SquishysLilHelper
+author:
+  name: Quashera
+  email: 'quashera@quashera.xyz'
+metadata:
+    description: 'A little info site for quasheras bot'
+
+# Site settings
+title: LilHelper
+email: web@quashera.com
+description: "A little info site for quasheras bot"
+
+# Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
+social:
+
+
+# Main Menu
+menu:
+
+
+footer:
+  text: "Welcome to the end of the page <3"
+  contact:
+    title: Join me
+    lines:
+      - text: Quashera's discord
+        url: "https://discord.gg/92W2vAU"
+      - text: Quashera's twitch
+        url: "https://www.twitch.tv/quashera"
+      - text: Quashera's instagram
+        url: "https://www.instagram.com/alittlequashera/"
