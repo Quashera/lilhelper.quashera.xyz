@@ -5,7 +5,7 @@ taxonomy:
     category: docs
 ---
 
-### Chapter 1
+### Chapter 2
 
 # Moderator commands
 

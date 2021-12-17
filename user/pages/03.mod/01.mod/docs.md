@@ -1,11 +1,11 @@
 ---
-title: General modding
+title: General Moderator Commands
 theme: learn2
 taxonomy:
     category: docs
 ---
 
-
+##moderator commands
 **!modlogset modlog**  
 `!modlogset modlog [channel]`
 Set a channel as the modlog.
